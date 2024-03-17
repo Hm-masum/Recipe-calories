@@ -1,0 +1,77 @@
+[
+    {
+      "Recipe_Id": 1,
+      "Recipe_Name": "Spicy Chicken Curry",
+      "Description": "A flavorful and aromatic chicken curry with a kick of spices.",
+      "Ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushrooms"],
+      "Preparing_Time": 30,
+      "Calories": 320,
+      "Recipe_Image": "https://i.ibb.co/Vx73zcD/pexels-sydney-troxell-718742.jpg"
+    },
+    {
+      "Recipe_Id": 2,
+      "Recipe_Name": "Vegetable Stir-Fry",
+      "Description": "A healthy and colorful mix of fresh vegetables stir-fried to perfection.",
+      "Ingredients": ["300 g mixed vegetables", "100 g tofu", "150 g bell peppers", "50 g snow peas"],
+      "Preparing_Time": 25,
+      "Calories": 250,
+      "Recipe_Image": "https://i.ibb.co/WkHqRjf/pexels-ash-376464.jpg"
+      
+    },
+    {
+      "Recipe_Id": 3,
+      "Recipe_Name": "Classic Spaghetti Bolognese",
+      "Description": "Indulge in the timeless flavors of this classic spaghetti bolognese recipe.",
+      "Ingredients": ["400 g spaghetti", "500 g ground beef", "200 g tomato sauce", "100 g grated Parmesan cheese"],
+      "Preparing_Time": 40,
+      "Calories": 340,
+      "Recipe_Image": "https://i.ibb.co/V9Nr6rB/pexels-malidate-van-769289.jpg"
+    },
+    {
+      "Recipe_Id": 4,
+      "Recipe_Name": "Mediterranean Salad",
+      "Description": "Enjoy the freshness of Mediterranean flavors with this vibrant salad.",
+      "Ingredients": ["200 g cherry tomatoes", "150 g cucumbers", "100 g feta cheese", "50 g olives"],
+      "Preparing_Time": 15,
+      "Calories": 180,
+      "Recipe_Image": "https://i.ibb.co/4fnqqZT/pexels-ella-olsson-1640777.jpg"
+    },
+    {
+      "Recipe_Id": 5,
+      "Recipe_Name": "Banana Oat Pancakes",
+      "Description": "Start your day with these wholesome and fluffy banana oat pancakes.",
+      "Ingredients": ["2 ripe bananas", "1 cup rolled oats", "2 eggs", "1 tsp vanilla extract"],
+      "Preparing_Time": 20,
+      "Calories": 250,
+      "Recipe_Image": "https://i.ibb.co/jHqSsj2/pexels-ella-olsson-1640772.jpg"
+    },
+    {
+      "Recipe_Id": 6,
+      "Recipe_Name": "Grilled Salmon with Asparagus",
+      "Description": "A light and healthy dish featuring grilled salmon served with tender asparagus.",
+      "Ingredients": ["4 salmon fillets", "300 g asparagus", "2 tbsp olive oil", "1 lemon"],
+      "Preparing_Time": 35,
+      "Calories": 380,
+      "Recipe_Image": "https://i.ibb.co/1rqM1Sm/pexels-dana-tentis-262959.jpg"
+      
+    },
+    {
+      "Recipe_Id": 7,
+      "Recipe_Name": "Caprese Salad",
+      "Description": "Savor the flavors of summer with this classic Italian Caprese salad.",
+      "Ingredients": ["200 g fresh mozzarella", "300 g ripe tomatoes", "50 ml balsamic glaze", "20 g fresh basil"],
+      "Preparing_Time": 10,
+      "Calories": 200,
+      "Recipe_Image": "https://i.ibb.co/w7LvVHC/pexels-cats-coming-406152.jpg"
+    },
+    {
+      "Recipe_Id": 8,
+      "Recipe_Name": "Egg pasta",
+      "Description": "Indulge in the irresistible taste of homemade Egg pasta.",
+      "Ingredients": ["4 pcs egg", "300 g all-purpose flour", "200 g tomato sauce", "100 g feta cheese"],
+      "Preparing_Time": 40,
+      "Calories": 420,
+      "Recipe_Image": "https://i.ibb.co/8sSt7xx/pexels-dana-tentis-691114.jpg"
+    }
+  ]
+  
