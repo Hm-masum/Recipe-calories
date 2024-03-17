@@ -21,11 +21,11 @@ const Card = ({card,handleCookButton}) => {
 
             <div className="flex gap-6">
                 <div className="flex gap-2">
-                    <img src="../src/assets/images/Frame (2).png" alt="" />
+                    <img src="https://i.ibb.co/wprxyzy/Frame-2.png" alt="" />
                     <p>{Preparing_Time}</p>
                 </div>
                 <div className="flex gap-2">
-                    <img src="../src/assets/images/Frame (1).png" alt="" />
+                    <img src="https://i.ibb.co/D8pLvZF/Frame-1.png" alt="" />
                     <p>{Calories}</p>
                 </div>
             </div>
